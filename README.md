@@ -9,7 +9,7 @@ It is similar to the import function in the FilesService with the following (ext
 You can specify the HTTP method like 'GET,POST' etc.
 
 ## Import URL
-Set the URL from where you want to import a Image
+Set the URL from where you want to import any file from the web.
 
 ## HTTP Headers
 You can set HTTP Headers. Some external URL's will need API keys or Auth tokens. You can specify these here.
