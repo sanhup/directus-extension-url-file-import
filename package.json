@@ -1,8 +1,10 @@
 {
 	"name": "url-file-import",
-	"description": "Please enter a description for your extension",
+	"description": "Add URL File Import operation to Directus Flows with custom headers, methods, folder id etc",
+	"author": "Sander Brouwer",
 	"icon": "extension",
 	"version": "1.0.0",
+	"license": "MIT",
 	"keywords": [
 		"directus",
 		"directus-extension",

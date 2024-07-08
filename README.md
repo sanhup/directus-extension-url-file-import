@@ -1,5 +1,9 @@
 # Directus Extension URL File Import (Operation)
-This extension adds a URL File Import Operation to Directus. It is similar to the import function in the FilesService with the following (extra) features:
+This extension adds a URL File Import Operation to Directus.
+
+![URL File Import Operation](./screenshot.png?raw=true "URL File Import Operation")
+
+It is similar to the import function in the FilesService with the following (extra) features.
 
 ## Different HTTP Methods
 You can specify the HTTP method like 'GET,POST' etc.
