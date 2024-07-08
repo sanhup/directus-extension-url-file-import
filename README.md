@@ -5,7 +5,7 @@ This extension adds a URL File Import Operation to Directus.
 
 It is similar to the import function in the FilesService with the following (extra) features.
 
-## Different HTTP Methods
+## Multiple HTTP Methods
 You can specify the HTTP method like 'GET,POST' etc.
 
 ## Import URL
@@ -21,7 +21,6 @@ This can be used to enter the (virtual) folder id where the file should be linke
 You can send a HTTP Body if needed.
 
 ## Installation
-
 First build your extension
 ```bash
 cd directus-extension-url-file-import
